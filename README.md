@@ -1,1 +1,1 @@
-# VGG-16-Implmentation
+# VGG-16-Implmentation and # linear regression from scratch
